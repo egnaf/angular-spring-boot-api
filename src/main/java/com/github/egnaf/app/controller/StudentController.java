@@ -18,7 +18,7 @@ public class StudentController {
     }
 
     @PostMapping
-    public Student saveOrUpdate(@RequestBody  Student student) {
+    public Student saveOrUpdate(@RequestBody Student student) {
         return studentService.saveOrUpdate(student);
     }
 
