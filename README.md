@@ -1,7 +1,7 @@
 # angular-spring-boot-api
 Back-end of the Angular + Spring boot example application.
 
-## How to run
+## Install
 Open terminal app.
 
 ###  Step 1
@@ -16,3 +16,6 @@ Write following code.
 mvn clean install
 java -jar target/app-0.0.1-SNAPSHOT.jar
 ```
+
+## Contribute
+For any problems, comments, or feedback please create an issue.
